@@ -29,7 +29,7 @@ A comprehensive **HR Analytics Dashboard** built using **Power BI**, **SQL**, **
 
 <p align="center">
 
-<img src="Images/dashboard.png" width="950">
+<img src="Images/HR DASHBOARD.png" width="950">
 
 </p>
 
