@@ -25,13 +25,6 @@ A comprehensive **HR Analytics Dashboard** built using **Power BI**, **SQL**, **
 
 ---
 
-# 🖥 Dashboard Preview
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhi03985/-HR-Analytics-Dashboard/main/HR Dashboard.png" width="950"/>
-</p>
-<p
-
-</p>
 
 ---
 
