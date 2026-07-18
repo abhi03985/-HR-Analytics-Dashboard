@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=F2C811&center=true&vCenter=true&width=900&lines=📊+HR+Analytics+Dashboard;Power+BI+%7C+SQL+%7C+Excel+%7C+DAX;Employee+Attrition+Analysis;Interactive+Business+Insights" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:00BFFF&height=180&section=header&text=HR%20Analytics%20Dashboard&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
